@@ -1,0 +1,7 @@
+{
+    "expression": "0/2 * * * * ?",
+    "group": "defined",
+    "handler": "codbex-sample-test-git/sample-validation.mjs",
+    "description": "My Job",
+    "parameters": []
+}

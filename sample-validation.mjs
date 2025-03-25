@@ -1,0 +1,1 @@
+console.log("GIT-PERSPECTIVE-VALIDATION-OK")
